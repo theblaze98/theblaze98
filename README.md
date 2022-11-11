@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy Dionicio Vargas (Theblaze98). </br>
+Hi, I'm Dionicio Vargas (Theblaze98). </br>
 🌱 I am currently learning web development. </br>
 ⚡ I have fun playing video games, listening to music, cycling and programming.
 
