@@ -3,10 +3,11 @@ Hi, I'm Dionicio Vargas (Theblaze98). </br>
 🌱 I am currently learning web development. </br>
 ⚡ I have fun playing video games, listening to music, cycling and programming.
 
+<img src="./4b2fd2946fc057ff4af9e44167ca535f.gif">
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dioni.vmarin) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theblaze98) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dioni.vmarin)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theblaze98)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theblaze985)
 
 # 💻 Tech Stack:
@@ -20,7 +21,7 @@ Hi, I'm Dionicio Vargas (Theblaze98). </br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://random-memer.herokuapp.com/" width="512px">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Theblaze98&icon=2&color=6)](https://visitcount.itsvg.in)
@@ -29,5 +30,5 @@ Hi, I'm Dionicio Vargas (Theblaze98). </br>
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dionijvargW)
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
-  
+
+  <img src="./4c72b657c4b40bf598cbaf61ba8dc7bb.jpg">
