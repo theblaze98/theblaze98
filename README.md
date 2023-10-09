@@ -3,8 +3,6 @@ Hi, I'm Dionicio Vargas (Theblaze98). </br>
 🌱 I am currently learning web development. </br>
 ⚡ I have fun playing video games, listening to music, cycling and programming.
 
-<img src="./4c72b657c4b40bf598cbaf61ba8dc7bb.jpg">
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/My9AC4eRFZ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Akokura_Makigawa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theblaze98) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/makigawa1226) 
 
@@ -30,5 +28,5 @@ Hi, I'm Dionicio Vargas (Theblaze98). </br>
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/dionijvargw) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dionijvargas@gmail.com) 
 
-  
+<img src="./4c72b657c4b40bf598cbaf61ba8dc7bb.jpg">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
