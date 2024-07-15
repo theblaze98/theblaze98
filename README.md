@@ -26,4 +26,6 @@ Hi, I'm Dionicio Vargas (Theblaze98).<br>🌱 I am currently learning web develo
 
 </div>
 
+![image](https://github.com/user-attachments/assets/79f95e9b-14d2-4d02-af5c-d4169a7fbafa)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
